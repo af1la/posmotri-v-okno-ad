@@ -20,4 +20,4 @@ HTML и JavaScript были готовы заранее, задача была �
 
 ## Ссылка на репозиторий
 
-<https://github.com/af1la/posmotri-v-okno-ad>
+https://github.com/af1la/posmotri-v-okno-ad
